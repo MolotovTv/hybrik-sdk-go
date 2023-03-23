@@ -1,3 +1,3 @@
-module github.com/MolotovTV/hybrik-sdk-go
+module github.com/molotovtv/hybrik-sdk-go
 
 go 1.18
